@@ -1,0 +1,4 @@
+- npm install
+- make sure postgres is running
+- create database product_testing_demo
+- npm run test:dev
